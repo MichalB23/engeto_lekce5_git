@@ -4,3 +4,6 @@ Moj prvý repozitář
 Testuovací repozitář
 
 Učím sa
+
+
+A skúšam
