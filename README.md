@@ -7,3 +7,6 @@ Učím sa
 
 
 A skúšam
+
+# Hello world!
+This will be my first file on GitHub.
