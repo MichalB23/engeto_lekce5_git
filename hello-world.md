@@ -1,9 +1,5 @@
 # Hello world!
 This will be my first file on GitHub.
-
-
-# Hello world again!!
-
-# Hello world again again!!
-
-Mám sa fajn.
+Další řádek
+Třetí řádek
+Vytvoříme konflikt - přidáme řádek
