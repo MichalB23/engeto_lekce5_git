@@ -9,3 +9,5 @@ A pak konflikt zase vyřešíme!
 Pridavam riadok
 A dalsi riadok 
  A znovu dalsi riadok
+
+ a zase
