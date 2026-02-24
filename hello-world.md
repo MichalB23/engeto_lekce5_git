@@ -11,3 +11,6 @@ A dalsi riadok
  A znovu dalsi riadok
 
  a zase
+
+
+ a zitra znova a zitra zase
