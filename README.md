@@ -23,3 +23,5 @@ This is an unstaged line                    # Přidali jsme tento řádek.
 
 Dalsi add
 dalsi bez add 
+
+pridavam dalsi riadok
