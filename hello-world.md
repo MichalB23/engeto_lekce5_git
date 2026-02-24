@@ -7,3 +7,4 @@ Tady bude konfliktní řádek
 A pak konflikt zase vyřešíme!
 
 Pridavam riadok
+A dalsi riadok 
