@@ -25,3 +25,5 @@ Dalsi add
 dalsi bez add 
 
 pridavam dalsi riadok
+24 . 2
+
